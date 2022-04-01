@@ -18,9 +18,9 @@ Until PeopleSoft delivers this new functionality, we have to make due with custo
 
 The PeopleSoft Image Catalog is a simple utility allowing a developer to search for images by name or type and see the image object on the page instead of just relying on the image object name to be descriptive (it’s not).
 
-### Web Posting: TBD
+### Web Posting: https://peopletoolstechtips.com/peoplesoft-image-catalog-utility/
 
-### YouTube demo: TBD
+### YouTube demo: https://youtu.be/lVFZDAHXZVQ
 
 ### Contact:  
 * randy@peopletoolstechtips.com  
